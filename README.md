@@ -28,7 +28,6 @@ $ cat about.json
   "experience": "9+ years",
   "education": "B.Sc. Information Systems — UFPE",
   "focus": ["Full-Stack", "AI Integrations", "Distributed Systems"],
-  "available_for": "Remote opportunities"
 }
 ```
 
