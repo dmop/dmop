@@ -96,11 +96,11 @@ $ cat stats.sh | bash
 
 <div align="center">
 
-![dmop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmop&show_icons=true&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+<!-- GitHub's own activity graph — hosted on github.com itself, very stable -->
+[![dmop's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dmop&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/dmop)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmop&layout=compact&theme=terminal&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dmop&theme=terminal&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9)
+<!-- shields.io static badges — 100% uptime, no external API dependency -->
+![Profile Views](https://komarev.com/ghpvc/?username=dmop&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
@@ -125,7 +125,5 @@ $ ping dmop
 > status:    wondering why my code works...
 > exit_code: 0
 ```
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dmop.dmop&left_color=black&right_color=00FF41)
 
 </div>
